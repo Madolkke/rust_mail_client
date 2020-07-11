@@ -8,3 +8,7 @@ edition = "2018"
 
 [dependencies]
 trust-dns-client = "*"
+trust-dns-resolver = "*"
+trust-dns = "*"
+chrono = "*"
+regex = "*"
